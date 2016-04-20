@@ -36,7 +36,7 @@ public class Account {
 		else
 		{
 			balance=balance-amount;
-			System.out.println("Balance :"+balance);
+			System.out.println("Balance :"+balance)
 		}
 	}
 
