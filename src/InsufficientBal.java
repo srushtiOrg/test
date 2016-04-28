@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author srushtik
+ *
+ */
 public class InsufficientBal extends Exception {
 	
 	float balance;
