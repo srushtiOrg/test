@@ -1,5 +1,8 @@
 
 public class Demo {
+	/*
+	fetch commit for branch2 only
+	*/
 
 	public static void main(String[] args)throws InsufficientBal {
 		
