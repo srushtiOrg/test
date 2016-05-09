@@ -7,13 +7,13 @@ public class Account {
 	float balance=5000,amount;
 	
 	/*
-	 * 
+	 check if 11th commit
 	 */
 	public Account() {
 		
 	}
 	/*
-	comment on master
+	comment
 	*/
 	
 	public Account(int accId, String accName, float balance) {
@@ -40,10 +40,14 @@ public class Account {
 		else
 		{
 			balance=balance-amount;
-			System.out.println("Balance :"+balance)
+			System.out.println("Balance :"+balance);
 		}
 	}
 /*
+<<<<<<< HEAD
  * Comment on branch2
+=======
+ * Comment
+>>>>>>> branch1
  */
 }
