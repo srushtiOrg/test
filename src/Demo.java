@@ -9,7 +9,7 @@ public class Demo {
 		try
 		{
 			a.display();
-			a.withdraw()
+			a.withdraw();
 			
 		}
 		catch(InsufficientBal s)

@@ -10,7 +10,7 @@ public class InsufficientBal extends Exception {
 	public InsufficientBal(String s) {
 		//super(s);
 		
-		System.out.println("Insufficient Balance")
+		System.out.println("Insufficient Balance");
 	}
 	
 	/*chnages on branch1 only
