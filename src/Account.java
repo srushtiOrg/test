@@ -6,12 +6,14 @@ public class Account {
 	String accName;
 	float balance=5000,amount;
 	
-	
+	/*
+	 * 
+	 */
 	public Account() {
 		
 	}
 	/*
-	comment
+	comment on master
 	*/
 	
 	public Account(int accId, String accName, float balance) {
