@@ -6,15 +6,10 @@ public class Account {
 	String accName;
 	float balance=5000,amount;
 	
-	/*
-	 check if 11th commit
-	 */
+
 	public Account() {
 		
 	}
-	/*
-	comment
-	*/
 	
 	public Account(int accId, String accName, float balance) {
 		super();
@@ -43,7 +38,5 @@ public class Account {
 			System.out.println("Balance :"+balance);
 		}
 	}
-/*
- * Comment
- */
+
 }
